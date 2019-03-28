@@ -8,7 +8,7 @@
         <div class="product attribute overview">
             <div class="valune">
                 <p>
-                <p><strong>PDF </strong><span style="font-weight: 400;">plugin allows you to create PDF copies of form submissions. Also, you can attach these PDF files to email notifications. </span></p> <ul class="firebase-list">
+                <p><strong>PDF </strong><span style="font-weight: 400;">plugin allows you to create PDF copies of form submissions. Also, you can attach these PDF files to email notifications. </span></p>
                 <ul class="firebase-list">
                     <li>Download Form Submissions as PDFs</li>
                     <li>Attach Submission&nbsp;PDFs to Email Notifications</li>
@@ -119,23 +119,23 @@
             <p><span style="font-weight: 400;">After installing this plugin, you download form submissions as PDFs by: &nbsp;</span></p>
             <p><span style="font-weight: 400;">- Go to </span><strong>Content &gt; Blue Form Builder &nbsp;&gt; Form Submissions</strong><span style="font-weight: 400;">. In the first column of the grid, tick the checkboxes of relevant form submissions that you want to save as PDFs. </span></p>
             <p><span style="font-weight: 400;">- After that, in </span><strong>Action </strong><span style="font-weight: 400;">box above the grid, choose </span><strong>Print Submissions</strong><span style="font-weight: 400;">. All submissions that you’ve selected will then be downloaded as a PDF file.</span></p>
-            <p><span style="font-weight: 400;"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Download_submissions_as_PDFs_1.png" alt="Magento 2 Form Builder | PDF plugin | Download form submissions as PDFs" width="1920" height="1020"></span></p>
+            <p><span style="font-weight: 400;"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Download_submissions_as_PDFs_1.png" alt="Magento 2 Form Builder | PDF plugin | Download form submissions as PDFs"></span></p>
         </div>
         <h3>How can I attach submission PDFs to email notifications?</h3>
         <div class="panel">
             <p><span style="font-weight: 400;">To do this, you can follow these steps:</span></p>
             <p><span style="font-weight: 400;">- Open a form in the backend. Then go to </span><strong>Settings &gt; Email Notifications</strong><span style="font-weight: 400;">.</span></p>
-            <p><span style="font-weight: 400;"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Open_email_notifications.png" alt="Magento 2 Form Builder | PDF plugin | Open email notifications" width="1920" height="1020"></span></p>
+            <p><span style="font-weight: 400;"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Open_email_notifications.png" alt="Magento 2 Form Builder | PDF plugin | Open email notifications"></span></p>
             <p><span style="font-weight: 400;">- In </span><strong>Admin&nbsp;</strong><span style="font-weight: 400;">section, you will find the h3 </span><strong>Attach PDF to notification emails</strong><span style="font-weight: 400;">.&nbsp;Turn on this h3 to apply&nbsp;the function to email notifications for admins.&nbsp;&nbsp;</span>&nbsp;</p>
-            <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Attach_submission_PDF_to_email_notifications.png" alt="Magento 2 Form Builder | PDF plugin | Attach PDFs to email notifications for admins" width="1920" height="1020"></p>
+            <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Attach_submission_PDF_to_email_notifications.png" alt="Magento 2 Form Builder | PDF plugin | Attach PDFs to email notifications for admins"></p>
             <p>- In both <strong>Customer&nbsp;</strong>section, you will find the h3 <strong>Attach PDF to autoresponder&nbsp;emails</strong>.&nbsp;Turn on this h3 to apply&nbsp;the function to email notifications for customers.&nbsp;&nbsp;&nbsp;</p>
-            <p dir="ltr"><img title="MailChimp | Test the plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Attach_PDF_to_email_notifications_for_customers.png" alt="Magento 2 Form Builder | PDF plugin | Attach PDFs to email notifications for customers" width="1920" height="1020"></p>
+            <p dir="ltr"><img title="MailChimp | Test the plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Attach_PDF_to_email_notifications_for_customers.png" alt="Magento 2 Form Builder | PDF plugin | Attach PDFs to email notifications for customers" ></p>
         </div>
     </div>
     <div class="col-md-6"><h3 class="accordion">How can I design the PDFs?</h3>
         <div class="panel">
             <p dir="ltr">To customize the look of PDFs, navigate to <strong>Content &gt; Blue Form Builder &gt; Settings</strong>. In the box on the left, open <strong>PDF </strong>tab. Then on the right section, you will see <strong>Design Settings</strong>. To change any settings, just untick the relevant checkbox “Use system value”.</p>
-            <p dir="ltr"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Change_design_settings_for_PDF.png" alt="Magento 2 Form Builder | PDF plugin | Design settings" width="1920" height="1020"></p>
+            <p dir="ltr"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Change_design_settings_for_PDF.png" alt="Magento 2 Form Builder | PDF plugin | Design settings"></p>
         </div>
         <h3 class="accordion">I cannot choose the Magento edition to install this plugin. Why?</h3>
         <div class="panel">
