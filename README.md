@@ -73,39 +73,64 @@
         <div class="panel">
             <p>Because<strong>&nbsp;PDF&nbsp;</strong>is a plugin of Blue Form Builder extension, the Magento edition for its installation will be decided by the edition you choose for Blue Form Builder.</p>
         </div>
-        <h3 class="accordion"> How can I get your support?</h3>
-        <div class="panel">
-            <p>If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.</p>
-            <ul class="firebase-list">
-                <li>Fill out <a title="Contact via contact form" href="https://www.magezon.com/contact/" target="_blank" rel="nofollow noopener">Contact Us</a> form and submit to us.</li>
-                <li>Email us at <a title="Contact via email" href="mailto:support@magezon.com" rel="nofollow">support@magezon.com</a>.</li>
-                <li>Submit a<a title="Contact via ticket" href="https://magezon.ticksy.com/" target="_blank" rel="nofollow noopener"> ticket</a>.</li>
-                <li>Contact us through <a title="Contact via Skype" href="skype:support@magezon.com" rel="nofollow">Skype</a>.</li>
-                <li>Contact us on live chat: support@magezon.com.</li>
-            </ul>
-        </div>
-    </div>
-</div>
-<br>
-<div>
-    <h2>Magezon Extensions</h2>
-    <ul>
-        <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html" rel="nofollow">Magento 2 Page
-            Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html" rel="nofollow">Magento 2 Single
-            Product Page Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-form-builder.html" rel="nofollow">Magento 2 Form Builder</a></li>
-        <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
-        <li><a href="https://www.magezon.com/magento-2-shop-by-brand.html" rel="nofollow">Magento 2 Shop By Brand</a>
-        </li>
-        <li><a href="https://www.magezon.com/product-labels.html" rel="nofollow">Magento 2 Product Labels</a></li>
-        <li><a href="https://www.magezon.com/magento-2-quick-order.html" rel="nofollow">Magento 2 Quick Order</a></li>
-        <li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html" rel="nofollow">Magento 2 Ajax Cart</a></li>
-        <li><a href="https://www.magezon.com/magento-2-lazy-load.html/" rel="nofollow">Magento 2 Lazy Load</a></li>
-        <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/" rel="nofollow">Magento 2 Tabs</a></li>
-        <li><a href="https://www.magezon.com/magento-2-customer-attachments.html" rel="nofollow">Magento 2 Customer
-            Attachments</a></li>
-        <li><a href="https://www.magezon.com/configurable-product-matrix.html" rel="nofollow">Magento 2 Configurable
-            Product Matrix</a></li>
-    </ul>
-</div>
+        <h3><button class="accordion"> How can I get your support?</button></h3>
+                            <div class="panel">
+                                <p>
+                                    If you have any questions or need any support, feel free to contact us via following ways. We will get back to you within 24 hours since you submit your support request.
+                                </p>
+                                <li>Fill out <a href="https://www.magezon.com/contact">Contact Us</a> form and submit to us.</li>
+                                <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a>
+                                </li>
+                                <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a>
+                                </li>
+                                <li>Contact us through Skype: support@magezon.com.</li>
+                                <li>Contact us via live chat on <a href="https://www.magezon.com/">Our Website</a>.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="extensions">
+                    <h2>Magezon Extensions</h2>
+                    <ul class="firebase-list">
+                        <li>
+                            <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a>
+                        </li>
+                        <li>
+                            <a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a>
+                        </li>
+                    </ul>
+                </div>
