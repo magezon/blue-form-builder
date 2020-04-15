@@ -1,21 +1,20 @@
 <html>
-<h1><a href="https://www.blueformbuilder.com/blue-form-builder-pdf.html">PDF Plugin | Blue Form Builder</a></h1>
+<h1><a href="https://www.magezon.com/blue-form-builder-pdf.html">PDF Plugin | Blue Form Builder</a></h1>
 <br/><br/>
 <table>
     <td width="30%" valign="top"style="border: none; ">
-        <br><a href="https://www.blueformbuilder.com/blue-form-builder-pdf.html"><img src="https://www.magezon.com/pub/media/catalog/product/p/d/pdf_2.png" alt="MailChimp plugin" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
+        <br><a href="https://www.magezon.com/blue-form-builder-pdf.html"><img src="https://www.magezon.com/pub/media/catalog/product/p/d/pdf_2.png" alt="MailChimp plugin" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
     <td style="border:none;"></br>
         <div class="product attribute overview">
             <div class="valune">
                 <p>
-                <p>Easily create PDF copies of your form submissions. You can:</p>
+                <p>PDFplugin allows you to create PDF copies of form submissions. Also, you can attach these PDF files to email notifications.</p>
                 <ul class="firebase-list">
-                    <li>Attach PDF to email notifications</li>
-                    <li>Attach PDF to email autoresponders</li>
-                    <li>Download multiple PDFs in the backend</li>
-                    <li>Design PDFs: background color, font size, border color,etc</li>
+                    <li>Download Form Submissions as PDFs</li>
+                    <li>Attach Submission PDFs to Email Notifications</li>
+                    <li>Design PDFs</li>
                 </ul>
-                <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;">This plugins is a part of the <a href="https://www.blueformbuilder.com/magento-2-form-builder.html/">Blue Form Builder</a>, one of the most powerful form extension on Magento2.</p> </div>
+                <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><b>PDF</b> is a plugin of <a href="https://www.magezon.com/magento-2-form-builder.html">Blue Form Builder</a> extension. Please pre-install Blue Form Builder. After that, install PDF plugin and it will be integrated with existing Blue Form Builder on your website.</p> </div>
         </div>
     <div>
                         <span><b>Community Edition:</b>&nbsp;2.1.x, 2.2.x, 2.3.x
@@ -23,19 +22,64 @@
     </div>
     <div>
         <h3>
-            </a>Demo <a href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/submission/edit&submission_id=10" rel="nofollow">Frontend</a> - <a
-                href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/submission"
+            </a>Demo <a href="http://blueformbuilder.m2.magezon.com/submission-confirmed/9611b286006172a77558615400d5a6031555560442#bfb-submission-pdf" rel="nofollow">Frontend</a> - <a
+                href="http://blueformbuilder.m2.magezon.com/admin/blueformbuilder/submission/edit/submission_id/107/"
                 rel="nofollow">Backend
         </a>
         </h3>
     </div></td>
     </tr>
+</table><h2>Feature Highlights </h2>
+<table>
+    <tbody>
+    <tr  id="easily-customize">
+        <td width="50%">
+            <div class="col-md-6">
+                <h3>Download form submissions as PDFs</h3>
+                <p><b>PDF</b> plugin enables you to download form submissions as PDFs. You can:</p>
+                <ul>
+                    <li>Export multiple submissions to PDF file</li>
+                    <li>Export a single submission to PDF in backend</li>
+                    <li>Export a single submission to PDF on frontend</li>
+                </ul>
+                <a href="https://blog.magezon.com/download-form-submission-pdf-blue-form-builder/">View tutorial</a>
+            </div>
+        </td>
+        <td>
+            <div class="col-md-6">
+                <img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/PDF_plugin___Export_a_submission_to_PDF_in_backend.png">
+            </div>
+        </td>
+    </tr>
+    <tr id="support-color">
+        <td width="50%">
+            <div class="col-md-6">
+                <p><img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/PDF_plugin___Attach_submission_pdfs_to_admin_email_notifications_1.png"></p>
+            </div>
+        </td>
+        <td>
+            <div class="col-md-6">
+                <h3>Attach submission PDFs to email notifications</h3>
+                <p>In <a href="https://www.magezon.com/blue-form-builder-auto-email-notifications">email notifications</a> sent to admins and customers, you can include the PDF files of form submissions as attachment. Your emails, therefore, will have a more professional look and feel.</p>
+            </div>
+        </td>
+    </tr>
+    <tr id="support-multiple">
+        <td width="50%">
+            <div class="col-md-6">
+                <h3 <span style="color: #ff5510">Design PDFs</h3>
+                <p><b>PDF</b> plugin empowers you to customize the look and feel of PDF files the way you want: background color, border color, font size, etc.<p>
+                    <p>Moreover, you can preview how it looks after customization.</p>
+            </div>
+        </td>
+        <td>
+            <div class="col-md-6">
+                <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Design_PDFs.png"/></p>
+            </div>
+        </td>
+    </tr>
+    </tbody>
 </table>
-<div>
-	<p>Creating portable & accessible files is very important for archiving & sharing information. When we want to share information we create PDF files that can be opened on just about any machine without fancy software. When we need to archive information we save it in a PDF. PDF format is a good choice- it’s convenient in use and can be opened and viewed with any software.</p>
-	<p>This plugin allows you to automatically attach a PDF copy of the form submission with the admin, customer notification emails. You can also download a PDF copy of any submitted form in the backend.</p>
-	<p>We offer customization options for the PDF file, allowing you to change background color, font size, border color,etc <a href="http://blueformbuilder.m2.magezon.com/pub/media/example1.pdf">Example1</a>, <a href="http://blueformbuilder.m2.magezon.com/pub/media/example2.pdf">Example2</a></p>
-</div>
 <br>
 <div>
     <h2>Feature Full List</h2>
