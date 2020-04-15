@@ -10,9 +10,9 @@
                 <p>
                 <p>PDFplugin allows you to create PDF copies of form submissions. Also, you can attach these PDF files to email notifications.</p>
                 <ul class="firebase-list">
-                    <li>Download Form Submissions as PDFs</li>
-                    <li>Attach Submission PDFs to Email Notifications</li>
-                    <li>Design PDFs</li>
+                    <li><a href="#download-form">Download Form Submissions as PDFs</a></li>
+                    <li><a href="#attach-sub">Attach Submission PDFs to Email Notifications</a></li>
+                    <li><a href="#design">Design PDFs</a></li>
                 </ul>
                 <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><b>PDF</b> is a plugin of <a href="https://www.magezon.com/magento-2-form-builder.html">Blue Form Builder</a> extension. Please pre-install Blue Form Builder. After that, install PDF plugin and it will be integrated with existing Blue Form Builder on your website.</p> </div>
         </div>
@@ -32,7 +32,7 @@
 </table><h2>Feature Highlights </h2>
 <table>
     <tbody>
-    <tr  id="easily-customize">
+    <tr  id="download-form">
         <td width="50%">
             <div class="col-md-6">
                 <h3>Download form submissions as PDFs</h3>
@@ -51,7 +51,7 @@
             </div>
         </td>
     </tr>
-    <tr id="support-color">
+    <tr id="attach-sub">
         <td width="50%">
             <div class="col-md-6">
                 <p><img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/PDF_plugin___Attach_submission_pdfs_to_admin_email_notifications_1.png"></p>
@@ -64,7 +64,7 @@
             </div>
         </td>
     </tr>
-    <tr id="support-multiple">
+    <tr id="design">
         <td width="50%">
             <div class="col-md-6">
                 <h3 <span style="color: #ff5510">Design PDFs</h3>
@@ -88,11 +88,16 @@
             <td valign="top">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <ul>
-                        <li><span style="font-weight: 400;">Attach PDF to email notifications</span></li>
+                        <li><span style="font-weight: 400;">Download form submissions as PDFs</span></li>
                         <li><span style="font-weight: 400;">Attach PDF to email autoresponders</span></li>
-                        <li><span style="font-weight: 400;">Download multiple PDFs in the backend</span></li>
-                        <li><span style="font-weight: 400;">Design PDFs: background color, font size, border color,etc</span></li>
-                        <li><span style="font-weight: 400;">Test print submissions</span></li>
+                        <li><span style="font-weight: 400;">Attach submission PDFs to email notifications</span></li>
+                        <li><span style="font-weight: 400;">Design PDFs</span></li>
+                        <li><span style="font-weight: 400;">No core code changes</span></li>
+                        <li><span style="font-weight: 400;">100% open source</span></li>
+                        <li><span style="font-weight: 400;">Easy to install and configure</span></li>
+                        <li><span style="font-weight: 400;">User-friendly interface</span></li>
+                        <li><span style="font-weight: 400;">30-day money back</span></li>
+                        <li><span style="font-weight: 400;">Free lifetime updates</span></li>
                     </ul>
                 </div>
             </td>
